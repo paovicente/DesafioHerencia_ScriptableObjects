@@ -8,6 +8,6 @@ Consigna: Se pedirá que los estudiantes entreguen una escena donde:
 ----------------------------------------------------------------------------------
 ACLARACIONES:
 - El caso de herencia está a partir del script Zombie.
-Scriptable Objects:
-- ZombieData
-- CemeteryData
+- Scriptable Objects:
+    - ZombieData
+    - CemeteryData
